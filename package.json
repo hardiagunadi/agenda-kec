@@ -1,0 +1,36 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@headlessui/react": "^1.4.2",
+        "@inertiajs/react": "^1.0.0",
+        "@tailwindcss/forms": "^0.5.3",
+        "@vitejs/plugin-react": "^3.0.0",
+        "autoprefixer": "^10.4.12",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.5",
+        "postcss": "^8.4.18",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "tailwindcss": "^3.2.1",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@heroicons/react": "^2.0.18",
+        "@popperjs/core": "^2.11.8",
+        "@react-pdf/renderer": "^3.1.12",
+        "humanize-duration": "^3.29.0",
+        "lodash": "^4.17.21",
+        "luxon": "^3.3.0",
+        "qrcode": "^1.5.3",
+        "qrcode.react": "^3.1.0",
+        "react-hot-toast": "^2.4.1",
+        "react-popper": "^2.3.0",
+        "react-simple-captcha": "^9.0.17",
+        "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.0/xlsx-0.20.0.tgz"
+    }
+}
