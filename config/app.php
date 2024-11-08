@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Panda Wonosobo'),
+    'name' => env('APP_NAME', 'E-Agenda Watumalang'),
 
     /*
     |--------------------------------------------------------------------------

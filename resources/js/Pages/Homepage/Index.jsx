@@ -38,7 +38,7 @@ export default function Index() {
       >
         <div className="text-zinc-700 md:w-[720px] mx-auto px-5 md:px-20 bg-zinc-100 bg-opacity-90 py-10 rounded">
           <h1 className="text-5xl font-bold">E-AGENDA</h1>
-          <div>Bagian Umum Setda Wonosobo</div>
+          <div>Kantor Kecamatan Watumalang</div>
         </div>
       </div>
 
@@ -52,7 +52,7 @@ export default function Index() {
       >
         <div className="flex flex-col max-w-screen-md gap-5 mx-auto text-center">
           <h2 className="text-2xl font-bold text-zinc-800">
-            Layanan Daring Bagian Umum
+            Layanan Daring Kantor Kecamatan Watumalang
           </h2>
 
           <div className="flex flex-col items-center gap-2 p-5 mx-auto rounded w-fit bg-zinc-100 bg-opacity-90">
@@ -111,15 +111,15 @@ export default function Index() {
       >
         <div className="max-w-screen-md mx-auto ">
           <h2 className="mb-2 text-2xl font-bold text-center">
-            Bagian Umum Sekretariat Daerah
+            Kantor Kecamatan Watumalang
           </h2>
           <div>
-            "Melaksanakan penyiapan pelaksanaan kebijakan dan pemantauan dan
-            evaluasi di bidang tata usaha pimpinan, staf ahli dan kepegawaian,
-            keuangan, rumah tangga dan perlengkapan."
+            " mempunyai tugas perumusan konsep kebijakan, pelaksanaan kebijakan, pengkoordinasian, pemantauan, evaluasi dan pelaporan pelaksanaan tugas sebagian urusan Daerah
+yang dilimpahkan oleh Bupati, meliputi penyelenggaraan pemerintahan umum, ketenteraman dan ketertiban umum, pemberdayaan masyarakat, pembinaan
+dan pengoordinasian wilayah, serta pemeliharaan prasarana dan sarana pelayanan umum di wilayah kecamatan"
           </div>
           <div className="mt-2 text-sm text-right text-zinc-500">
-            - Pasal 35 ayat (1) huruf a Perbup Wonosobo Nomor 10 Tahun 2022
+            - Pasal 4 Bab 4 Bagian Kesatu Perbup Wonosobo Nomor 16 Tahun 2016
           </div>
         </div>
       </div>

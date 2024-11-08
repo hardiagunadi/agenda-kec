@@ -115,7 +115,7 @@ function Aside() {
 function RunningText() {
   const news = [
     'Wonosobo Hebat',
-    'Setda Maer',
+    'Watumalang Gemilang',
     'Cancut Taliwondo, Nyengkuyung Wonosobo Raharjo',
   ];
 
